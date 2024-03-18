@@ -1,5 +1,5 @@
-# tugas-2-adp
-● bahasa c++
+# tugas 2 adp
+1.bahasa c++
 
 
 
@@ -46,8 +46,7 @@ cout<<"-------------------------------------------------------------------------
 
 
 
-
-   ● bahasa phyton
+2.bahasa phyton
 
    
     print("Selamat datang di pemesanan tiket Bus PT ANS Lintas-Sumatera")
