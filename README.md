@@ -1,5 +1,8 @@
 # tugas-2-adp
 ● bahasa c++
+
+
+
 #include <iostream>
 
 using namespace std;
@@ -45,6 +48,8 @@ cout<<"-------------------------------------------------------------------------
 
 
    ● bahasa phyton
+
+   
     print("Selamat datang di pemesanan tiket Bus PT ANS Lintas-Sumatera")
 print("Tujuan yang dipilih:")
 print("1. Medan: Rp100000")
